@@ -12,6 +12,7 @@ Churn probability visualization with Plotly gauge charts
 Feature importance analysis
 Dynamic customer input handling
 Data preprocessing using encoders and scalers
+
 🛠 Tech Stack
 Python
 Streamlit
