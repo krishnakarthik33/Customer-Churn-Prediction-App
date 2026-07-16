@@ -15,6 +15,8 @@ Churn probability visualization with Plotly gauge charts
 Feature importance analysis
 Dynamic customer input handling
 Data preprocessing using encoders and scalers
+
+
 🛠 Tech Stack
 Python
 Streamlit
@@ -23,16 +25,20 @@ Pandas
 NumPy
 Plotly
 Pickle
+
 📈 Project Highlights
 Developed an end-to-end ML prediction system
 Implemented responsive dashboard design with dark theme UI
 Integrated classification model with probability prediction
 Visualized churn risk and model insights interactively
+
+
 🎯 Use Cases
 Banking customer retention analysis
 Telecom churn prediction
 Subscription-based business analytics
 Customer behavior analysis
+
 📌 Short Description
 Machine Learning based Customer Churn Prediction Web App built using Streamlit, Scikit-learn, and Plotly with real-time prediction, churn probability visualization, and feature importance analysis.
 
